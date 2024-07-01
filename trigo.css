@@ -1,0 +1,33 @@
+.ae{
+text-align: center;
+
+}
+
+body{
+background-color:#fcc765;
+
+}
+
+header {
+    background-color: #f6fa00;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
