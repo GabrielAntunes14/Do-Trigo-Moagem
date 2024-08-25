@@ -1,6 +1,7 @@
 Agrinho
+<br>
 Este é o repositório do site "Agrinho", desenvolvido para destacar temas importantes relacionados ao desenvolvimento rural e à sustentabilidade. O site aborda tópicos como erradicação da pobreza, oportunidades no campo, empoderamento econômico, integração de cadeias de valor, e infraestrutura básica.
-
+		    
 Visão Geral
 O site "Do Solo à Moagem" foi desenvolvido para aprofundar o conhecimento sobre o trigo e suas fases de processamento. Cada seção do site foca em um tema específico, oferecendo informações detalhadas e visuais que destacam a importância e os processos envolvidos no cultivo e processamento do trigo.
 
