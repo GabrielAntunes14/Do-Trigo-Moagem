@@ -21,7 +21,7 @@ Imagens: Utilizadas para ilustrar e complementar o conteúdo textual, armazenada
 Você pode acessar o site clicando no link no repositório, ou no seguinte link:
 <br><br>
 
-https://github.com/GabrielAntunes14/Do-Trigo-Moagem
+[https://github.com/GabrielAntunes14/Do-Trigo-Moagem](https://gabrielantunes14.github.io/Do-Trigo-Moagem/)
 <br><br>
 Autor
 <br><br>
