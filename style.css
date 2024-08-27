@@ -136,4 +136,44 @@ h2 {
 
 @media screen {
   
+}@media (max-width: 768px) {
+  header {
+      text-align: left;
+  }
+
+  nav ul {
+      text-align: center;
+      padding: 0;
+  }
+
+  nav ul li {
+      display: block;
+      margin: 10px 0;
+  }
+
+  .lado {
+      flex-direction: column;
+      align-items: center;
+  }
+
+  .textoTrigo, .section {
+      margin: 10px;
+      padding: 15px;
+      font-size: medium;
+  }
+
+  table {
+      width: 100%;
+  }
+
+  th {
+      display: block;
+      width: 100%;
+  }
+
+  img {
+      width: 100%;
+      height: auto;
+  }
 }
+
